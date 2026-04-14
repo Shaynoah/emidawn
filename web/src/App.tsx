@@ -588,9 +588,6 @@ const App: React.FC = () => {
                   </span>
                   <div className="pillar-text">
                     <div className="pillar-title">Office Lunch Packages</div>
-                    <div className="pillar-note">
-                      Recurring contracts = stable income
-                    </div>
                   </div>
                 </div>
                 <div className="pillar-card">
@@ -601,22 +598,11 @@ const App: React.FC = () => {
                     <div className="pillar-title">
                       Premium Residential Takeaways
                     </div>
-                    <div className="pillar-note">
-                      High-end estates & apartments
-                    </div>
                   </div>
                 </div>
               </div>
             </div>
 
-            <button className="primary-cta" onClick={scrollToConsultation}>
-              Request a Private Consultation
-            </button>
-
-            <p className="hero-footnote">
-              Events bring big moments. Office lunches & takeaways bring
-              consistent cash flow.
-            </p>
           </div>
         </section>
 
